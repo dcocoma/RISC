@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" --snapshot "Meminst_simu_behav" "xil_defaultlib.Meminst_simu" -log "elaborate.log" 

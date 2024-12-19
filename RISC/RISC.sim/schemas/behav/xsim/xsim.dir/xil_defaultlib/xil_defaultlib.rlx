@@ -1,0 +1,20 @@
+0.7
+2020.2
+May  7 2023
+15:10:42
+/home/cocoma-reyes/Bureau/RISC_V_projet/codes_sources/ALU.vhd,1733757646,vhdl,,,,alu,,,,,,,,
+/home/cocoma-reyes/Bureau/RISC_V_projet/codes_sources/Banc_regis.vhd,1734030582,vhdl,,,,banc_regis,,,,,,,,
+/home/cocoma-reyes/Bureau/RISC_V_projet/codes_sources/Compteur_8bits.vhd,1733757642,vhdl,,,,compteur_8bits,,,,,,,,
+/home/cocoma-reyes/Bureau/RISC_V_projet/codes_sources/Memoire_donnes.vhd,1734085766,vhdl,,,,memoire_donnes,,,,,,,,
+/home/cocoma-reyes/Documents/VHDL/RISC/RISC.srcs/schemas/new/Schema2.vhd,1733758208,vhdl,,,,schema2,,,,,,,,
+/home/cocoma-reyes/Documents/VHDL/RISC/RISC.srcs/schemas/new/Schema5.vhd,1734080591,vhdl,,,,schema5,,,,,,,,
+/home/cocoma-reyes/Documents/VHDL/RISC/RISC.srcs/schemas/new/Shema1_sim.vhd,1733593381,vhdl,,,,shema1_sim,,,,,,,,
+/home/cocoma-reyes/Documents/VHDL/RISC/RISC.srcs/schemas/new/Shema3.vhd,1734021742,vhdl,,,,shema3,,,,,,,,
+/home/cocoma-reyes/Documents/VHDL/RISC/RISC.srcs/schemas/new/Shema4.vhd,1734026851,vhdl,,,,shema4,,,,,,,,
+/home/cocoma-reyes/Documents/VHDL/RISC/RISC.srcs/sources_1/new/Memoire_inst.vhd,1734085219,vhdl,,,,memoire_inst,,,,,,,,
+/home/cocoma-reyes/Documents/VHDL/RISC/RISC.srcs/sources_1/new/PipelineStage.vhd,1733679720,vhdl,,,,pipelinestage,,,,,,,,
+/home/cocoma-reyes/Documents/VHDL/RISC/RISC.srcs/sources_1/new/RISC.vhd,1733680192,vhdl,,,,risc,,,,,,,,
+/home/cocoma-reyes/Documents/VHDL/RISC/RISC.srcs/sources_1/new/RISC2.vhd,1734019623,vhdl,,,,risc2,,,,,,,,
+/home/cocoma-reyes/Documents/VHDL/RISC/RISC.srcs/sources_1/new/RISC3.vhd,1734025940,vhdl,,,,risc3,,,,,,,,
+/home/cocoma-reyes/Documents/VHDL/RISC/RISC.srcs/sources_1/new/RISC4.vhd,1734042836,vhdl,,,,risc4,,,,,,,,
+/home/cocoma-reyes/Documents/VHDL/RISC/RISC.srcs/sources_1/new/RISC5.vhd,1734084915,vhdl,,,,risc5,,,,,,,,

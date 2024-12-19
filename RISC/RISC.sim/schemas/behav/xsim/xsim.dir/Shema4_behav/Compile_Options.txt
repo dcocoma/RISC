@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" --snapshot "Shema4_behav" "xil_defaultlib.Shema4" -log "elaborate.log" 

@@ -1,0 +1,7 @@
+Running: xsim.dir/Shema1_sim_behav/xsimk -simmode gui -wdb Shema1_sim_behav.wdb -simrunnum 0 -socket 38691
+Design successfully loaded
+Design Loading Memory Usage: 23524 KB (Peak: 24156 KB)
+Design Loading CPU Usage: 20 ms
+Simulation completed
+Simulation Memory Usage: 113460 KB (Peak: 162792 KB)
+Simulation CPU Usage: 20 ms
